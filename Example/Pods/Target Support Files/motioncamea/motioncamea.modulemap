@@ -1,0 +1,6 @@
+framework module motioncamea {
+  umbrella header "motioncamea-umbrella.h"
+
+  export *
+  module * { export * }
+}

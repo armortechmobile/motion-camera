@@ -1,0 +1,14 @@
+PODS:
+  - motioncamea (0.1.0)
+
+DEPENDENCIES:
+  - motioncamea (from `../`)
+
+EXTERNAL SOURCES:
+  motioncamea:
+    :path: ../
+
+SPEC CHECKSUMS:
+  motioncamea: f60b5b21a4b085c4bbd57102670d76011632634d
+
+COCOAPODS: 0.39.0

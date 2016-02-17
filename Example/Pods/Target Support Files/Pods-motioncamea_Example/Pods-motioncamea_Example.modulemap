@@ -1,0 +1,6 @@
+framework module Pods_motioncamea_Example {
+  umbrella header "Pods-motioncamea_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
